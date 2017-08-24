@@ -1,0 +1,40 @@
+body {
+  background-color: #f1f1f1;
+}
+#fenlei ul {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 5px 5px;
+}
+#fenlei ul .leiTitle {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+#fenlei ul .leiTitle span {
+  font-size: 16px;
+  font-weight: 600;
+}
+#fenlei ul .leiTitle i {
+  background: url("http://www.zuyushop.com/wap/images/arrow1.gif") 0 0 no-repeat;
+  display: block;
+  width: 16px;
+  height: 16px;
+  float: right;
+  margin-top: 10px;
+}
+#fenlei ul div {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#fenlei ul div .leiTitle-list-content {
+  height: 30px;
+  border: 1px solid #ccc;
+}
+#fenlei ul div .leiTitle-list-content a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  line-height: 30px;
+  text-align: center;
+  color: #333;
+}
